@@ -1,0 +1,12 @@
+This is a project I have created for my university Intelligent Agents module. 
+It is written in Java and requires JADE framework to work.
+
+The project implements 3 types of agents: Broker, Client and Supplier.
+Agents trade in things like nuts and bolts.
+
+- Broker: special agent that introduces Clients to Suppliers. All negotiations 
+happen directly between Client and Supplier afterwards.
+
+- Supplier: sells.
+
+- Client: buys
